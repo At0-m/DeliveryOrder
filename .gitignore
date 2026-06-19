@@ -1,0 +1,17 @@
+.vs/
+.vscode/
+.idea/
+bin/
+obj/
+TestResults/
+*.user
+*.suo
+*.cache
+*.log
+.env
+.env.local
+node_modules/
+dist/
+coverage/
+.DS_Store
+postgres-data/
